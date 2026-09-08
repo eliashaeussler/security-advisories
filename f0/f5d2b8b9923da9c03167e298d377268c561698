@@ -1,0 +1,16 @@
+typo3/cms-backend/CVE-2026-77132.yaml
+  h_a1c258d8beeba3 1-20
+typo3/cms-lowlevel/CVE-2026-85400.yaml
+  h_a1c258d8beeba3 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "f0f5d2b8b9923da9c03167e298d377268c561698",
+  "prompts": {},
+  "humans": {
+    "h_a1c258d8beeba3": {
+      "author": "Elias Häußler <elias@haeussler.dev>"
+    }
+  }
+}
